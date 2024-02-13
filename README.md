@@ -7,22 +7,22 @@ We will build a Spring Boot CRUD example using Thymeleaf template engine for Vie
 - User can search Tutorials by title.
 
 ##### Create new entity object:
-<img width="473" alt="image" src="https://github.com/chinmayagarwal03/ThymeLeafSpringboot/assets/87461631/74eaf05b-4254-4adb-ad34-76ca4f8682cb">
+<img width="473" alt="image" src="">
 
 ##### Retrieve all objects:
-<img width="467" alt="image" src="https://github.com/chinmayagarwal03/ThymeLeafSpringboot/assets/87461631/7e9d3820-7f52-4fa9-b5c3-71f0ccd80d90">
+<img width="467" alt="image" src="">
 
 ##### Update status of an item:
-<img width="663" alt="image" src="https://github.com/chinmayagarwal03/ThymeLeafSpringboot/assets/87461631/5457f118-efba-4711-b51c-3d81817be96f">
+<img width="663" alt="image" src="">
 
 ##### Update/Edit an object in its own page:
-<img width="643" alt="image" src="https://github.com/chinmayagarwal03/ThymeLeafSpringboot/assets/87461631/f8615361-e88e-4a8b-ba4b-cff1ce45c175">
+<img width="643" alt="image" src="">
 
 ##### Search Tutorials by title:
-<img width="636" alt="image" src="https://github.com/chinmayagarwal03/ThymeLeafSpringboot/assets/87461631/6daa9d60-3b6b-4370-9dac-44f752383d23">
+<img width="636" alt="image" src="">
 
 ##### Delete an item:
-<img width="657" alt="image" src="https://github.com/chinmayagarwal03/ThymeLeafSpringboot/assets/87461631/b55f7a97-79da-45ba-a399-3f7fb413f1f9">
+<img width="657" alt="image" src="">
 
 ### Technology
 - Java 8
