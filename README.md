@@ -6,23 +6,17 @@ We will build a Spring Boot CRUD example using Thymeleaf template engine for Vie
 - CRUD operations are supported: create, retrieve, update, delete Tutorials.
 - User can search Tutorials by title.
 
-##### Create new entity object:
-<img width="473" alt="image" src="">
 
 ##### Retrieve all objects:
-<img width="467" alt="image" src="">
+<img width="467" alt="image" src="/css/all_tut.jpeg">
 
-##### Update status of an item:
-<img width="663" alt="image" src="">
+##### Create new item:
+<img width="663" alt="image" src="/css/new_tut.jpeg">
 
-##### Update/Edit an object in its own page:
-<img width="643" alt="image" src="">
 
-##### Search Tutorials by title:
-<img width="636" alt="image" src="">
 
-##### Delete an item:
-<img width="657" alt="image" src="">
+
+
 
 ### Technology
 - Java 8
